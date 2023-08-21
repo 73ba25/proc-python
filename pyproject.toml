@@ -1,0 +1,13 @@
+[project]
+name = "proc-python"
+version = "0.1.0"
+authors = [
+    { name="73ba25", email="73ba25@skiff.com" }
+]
+description = "A Python module for retrieving information about running processes in Linux"
+readme = "README.md"
+classifiers = [
+    "Programming Language :: Python :: 3",
+    "License :: OSI Approved :: GNU General Public License v3 or later (GPLv3+)",
+    "Intended Audience :: Developers"
+]
